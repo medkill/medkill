@@ -1,5 +1,5 @@
 <p align = "center">
-  hey, im shiny
+  hi im shiny
 </br>
 he/him
 </br>
@@ -10,5 +10,5 @@ he/him
 </br>
 im usually offtab whenever im on
 </br>
-feel free to whisper if you wanna chat just dont be a fucking weirdo
+feel free to whisper if you wanna chat just dont be weird pls ty
 </p>
